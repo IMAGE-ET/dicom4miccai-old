@@ -2,7 +2,7 @@
 layout: default
 ---
 
-DICOM4MICCAI is a tutorial satellite event to MICCAI 2017.
+DICOM4MICCAI is a tutorial satellite event to [MICCAI 2017](http://www.miccai2017.org/satellite-events).
 
 This page is work in progress to organize materials for this tutorial. Stay tuned for updates!
 
@@ -21,13 +21,13 @@ using open source tools.
 
 ## [](#talks)Talks
 
-**Ron Kikinis - “Standards for medical image computing - why?”**
+[Ron Kikinis](http://www.spl.harvard.edu/pages/People/kikinis): **Standards for medical image computing - why?**
 
-**David Clunie - “DICOM: Overview and historical perspective”**
+[David Clunie](http://www.dclunie.com/): **DICOM: Overview and historical perspective**
 
-**Andrey Fedorov - “DICOM for Quantitative Imaging”**
+[Andrey Fedorov](https://fedorov.github.io): **DICOM for Quantitative Imaging**
 
-**Marco Nolden - “Standardizing on DICOM for oncology use cases”**
+[Marco Nolden](https://scholar.google.de/citations?user=sNoLhxIAAAAJ&hl=en): **Standardizing on DICOM for oncology use cases**
 
 ## [](#handson)Hands-on
 
