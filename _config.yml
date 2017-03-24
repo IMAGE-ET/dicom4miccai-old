@@ -1,5 +1,7 @@
 title: DICOM4MICCAI
 description: "21st Century DICOM for Quantitative Imaging Research: Why, What, and How"
 show_downloads: false
+github.is_user_page: false
+github.is_project_page: false
 google_analytics:
 theme:
