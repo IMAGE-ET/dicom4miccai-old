@@ -37,6 +37,6 @@ using open source tools.
 * **Standardized representation of image segmentation: from NRRD to DICOM and back**: On an example from a realistic research usage scenario, the attendees will be guided over the steps needed to convert a segmentation result stored in a common research format into a DICOM representation.
 * **Visualization and end-user tools: 3D Slicer and MITK**: In this session the attendees will use two popular medical image computing platforms to experience the advantages of using standardized representation of research data, and learn about how such support can be integrated into an end-user tool.
 
-# [](#preregister)Pre-registration - coming up!
+# [](#preregister)Pre-registration
 
 **[Register here!](https://goo.gl/qkGG5A)**
