@@ -6,6 +6,8 @@ DICOM4MICCAI is a tutorial satellite event to [MICCAI 2017](http://www.miccai201
 
 This page is work in progress to organize materials for this tutorial. Stay tuned for updates!
 
+**[Register for this tutorial here!](https://goo.gl/qkGG5A)**
+
 # [](#scope)Scope
 
 The objective of this tutorial is to introduce MICCAI community to the capabilities of the DICOM standard related to the storage of the data typically produced in the process of quantitative image analysis.
