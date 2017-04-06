@@ -39,4 +39,4 @@ using open source tools.
 
 # [](#preregister)Pre-registration - coming up!
 
-**TBD**
+**[Register here!](https://goo.gl/qkGG5A)**
